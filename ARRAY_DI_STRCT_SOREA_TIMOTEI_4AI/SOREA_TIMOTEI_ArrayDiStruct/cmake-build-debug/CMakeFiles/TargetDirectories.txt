@@ -1,0 +1,3 @@
+C:/Users/punto/CLionProjects/SOREA_TIMOTEI_ArrayDiStruct/cmake-build-debug/CMakeFiles/SOREA_TIMOTEI_ArrayDiStruct.dir
+C:/Users/punto/CLionProjects/SOREA_TIMOTEI_ArrayDiStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/punto/CLionProjects/SOREA_TIMOTEI_ArrayDiStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
